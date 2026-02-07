@@ -5,8 +5,13 @@ Apply the Huffman and Shannon-Fano to this source.
 Show that by drawing the tree diagram, and 
 Calculate the average code word length, entropy, variance, redundancy, and efficiency.
 
-## Software Required:
+## Software Required
 Google colab
+
+## Theory
+Huffman coding is an optimal lossless compression algorithm that constructs codes based on symbol probabilities using a binary tree. It is widely used in digital communication systems for efficient data transmission.
+
+Shannon–Fano coding is a lossless data compression technique used in digital communication to reduce the number of bits required to represent data. It assigns shorter codes to symbols with higher probability and longer codes to symbols with lower probability.
 
 ## Program:
 ```
@@ -51,14 +56,11 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
 ## Calculation:
-```
-Compare the manually calculated value and the observed practical value.
-```
+
+
 ## Output
 
 <img width="580" height="280" alt="Screenshot 2026-02-07 091453" src="https://github.com/user-attachments/assets/92cf740e-e07c-4c12-b337-4735a91e2f49" />
 
 ## Results:
-```
-Write the conclusion
-```
+Thus, the python program for Huffman-Shannon_fano has been executed and verified successfully.
