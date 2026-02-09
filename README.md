@@ -57,6 +57,10 @@ print(f"Variance is : {var}")
 ```
 ## Calculation:
 
+![WhatsApp Image 2026-02-09 at 9 14 54 AM](https://github.com/user-attachments/assets/fecd806d-1fa6-4c8d-88c7-0d93d28eaad7)
+
+![WhatsApp Image 2026-02-09 at 9 14 54 AM (1)](https://github.com/user-attachments/assets/62ab5fa7-76e0-46be-9d9f-c3aff2df3faf)
+
 
 ## Output
 
